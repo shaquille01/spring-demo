@@ -1,8 +1,0 @@
-aws_region="us-east-1"
-stack="terraform-demo"
-fargate-task-service-role="terraform-workshop-role"
-aws_ecr="demo"
-aws_profile="default"
-source_repo_name="demo"
-source_repo_branch="master"
-image_repo_name="demo"
